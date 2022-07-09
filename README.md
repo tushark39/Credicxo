@@ -1,4 +1,7 @@
 # Cerdicxo Internship Task
+
+Github Repo Link:- https://github.com/tushark39/Credicxo
+
 ## How to Use
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -25,5 +28,5 @@ or
  Link :- https://colab.research.google.com/drive/1oVa8NdOPECYpwyHPNbzpKSGmEohpUkA4?usp=sharing
 
 ## Demo Videos
-- Web Scrapping (./web-scrapping.mkv)
-- Captcha Bypass ("Bonus Task"/captcha-bypass.mkv)
+- Web Scrapping ([./web-scrapping.mkv](https://github.com/tushark39/Credicxo/blob/main/web-scrapping.mkv))
+- Captcha Bypass (["Bonus Task"/captcha-bypass.mkv](https://github.com/tushark39/Credicxo/blob/main/Bonus%20Task/captcha-bypass.mkv))
