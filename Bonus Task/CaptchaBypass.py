@@ -7,7 +7,7 @@ import os
 import time
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--incognito")
-browser = webdriver.Chrome('./chromedriver',chrome_options=chrome_options)
+browser = webdriver.Chrome('../chromedriver',chrome_options=chrome_options)
 browser.get('https://www.amazon.com/errors/validateCaptcha')
 
 while True:
